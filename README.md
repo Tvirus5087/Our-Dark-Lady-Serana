@@ -3,6 +3,8 @@ This will be the Read me page going forward for Our Dark Lady Serana
 
 THIS IS AN EXTREMELY NSFW LIST. BEFORE INSTALLING PLEASE REVIEW  "Serana Dead Sexy - The Queen of Screams" on it's Nexus page.  https://www.nexusmods.com/skyrimspecialedition/mods/73589
 Gore. Sex. Overpower Serana. If you're not wanting something so Extreme please check out Whispers of Mara in the unofficial Wabbajack gallery. 
+############BEING UPDATED############### SEE https://www.nexusmods.com/skyrimspecialedition/articles/11578 FOR LINKS
+
 
 Essential Requirements: 
 Anniversary Edition
