@@ -13,7 +13,7 @@ Windows 10/11
 .net 10 [https://dotnet.microsoft.com/en-us/download/dotnet/10.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-10.0.9-windows-x64-installer)
 Latest Visual Redisitributables https://aka.ms/vs/17/release/vc_redist.x64.exe https://aka.ms/vc14/vc_redist.x86.exe
 
-For Simplicity I have added a text document with required mods that are outside of the Nexus.  Mainly Lover's lab account is required. 
+For Simplicity I have added a text document with required mods that are outside of the Nexus, it will be in the zip file with the wabbajack file. This way you will always have it. Mainly Lover's lab account is required. 
 
 
 #When launching please do not tab out untill fully loaded or you may experience freezing
