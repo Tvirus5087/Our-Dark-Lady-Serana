@@ -16,12 +16,19 @@ Latest Visual Redisitributables https://aka.ms/vs/17/release/vc_redist.x64.exe h
 For Simplicity I have added a text document with required mods that are outside of the Nexus, it will be in the zip file with the wabbajack file. This way you will always have it. Mainly Lover's lab account is required. 
 
 
-#When launching please do not tab out untill fully loaded or you may experience freezing
-#When Launching a new game it is recommended to give 30-60 seconds in racemenu (including your edit time) 
-#Do not leave the starting cell until all MCMs and Scripts have finished loading
-#It Is recommended to run the MCM recording I have provided after the completion of script loading. You can safely "skip" any that it doesnt detect for some reason.
+#When launching please do not tab out untill fully loaded or you may experience freezing.
+
+#When Launching a new game, it is recommended to give 30-60 seconds in racemenu (including your edit time).
+
+#Do not leave the starting cell until all MCMs and Scripts have finished loading.
+
+#It is recommended to run the MCM recording I have provided after the completion of script loading. You can safely "skip" any that it doesnt detect for some reason.
+
 #IF you decide to customize the MCMs the most importamt things are: "Install Sexlabs" and Reduce the spawns of the walking draugr. Basically anything at 100 should be like 20%.
+
 #There WILL be crashes due to version locking of mods.
+
 #IF you do not have an HDR Display please remove "HDR" under community Shaders. 
+
 #IF you do have HDR please run the Windows Calibration and record the numbers you see. Apply these under the community shaders HDR settings (This will improve visuals)
 
